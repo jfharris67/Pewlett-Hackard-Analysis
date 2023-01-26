@@ -30,7 +30,7 @@ The purpose of this analysis is to assist Pewlett-Hackard management prepare for
 
 ### Overall Summary
 
-Based on the data analysis, a significant number of roles will need to be filled as the "silver tsunami" begins to impact, with a total of 72,458 employees that are due for retirement over the near future. A total of 1549 employees have been identified to be part of a mentorship campaign, which may indicate that there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+Based on the data analysis, a significant number of roles will need to be filled as the "silver tsunami" begins to impact, with a total of 72,458 employees that are due for retirement over the near future. A total of 1549 employees have been identified to be part of a mentorship campaign, which may indicate that there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  This will depend on the the time allocated per mentor.  When you look at the biggest impact, 171 employees per senior staff which would be an average of 43 per year.  Training programs will need to be setup for the mentors to allow them the ability to train multiple candidates at the same time.
 
 ### Opportunities
 With so many senior positions potentially retiring, there is a huge opportunity for junior employees to move up in the organization.
