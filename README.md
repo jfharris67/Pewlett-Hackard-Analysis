@@ -49,5 +49,11 @@ Retiring Population = 30%
 <img width="768" alt="Mentors_Per_employee" src="https://user-images.githubusercontent.com/114355199/213869454-d38cfd37-6e9c-4244-980d-01670bc45c5a.png">
 
 
-The above results will determine whe
+### Percentage of Retiring Employees
+I thought it would be worthwhile to see the percentage of retiring titles vs active titles. I created the query below.  We can see that even with this analysis, it still shows the major impact.  The lowest impact is the manager title, 2 out of 9 managers are due for retirement.  However, we don't have any potential managers as a part of the mentorship program.  A decision will need to be made on suitable candidates that could fill the manager roles.
+
+
+<img width="1087" alt="Percentage_of_titles_retiring" src="https://user-images.githubusercontent.com/114355199/214823625-db83b6d7-2d07-471a-95c2-bbb94434b9b9.png">
+
+
 
